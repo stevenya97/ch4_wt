@@ -5,7 +5,7 @@ class MoviesController < ApplicationController
   end
   
   # add below all other methods
-private
+
 
   def movie_params
     params.require(:movie).permit(:title, :rating, :description, :release_date)
