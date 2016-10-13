@@ -1,0 +1,4 @@
+This was forked/cloned from my partner's repo(jfontech-Julian). We worked on it on my workspace and I cloned it via git after we finished.
+From doc- "If you worked with a partner, share your progress by forking and cloning your partner’s GitHub repo."
+
+Steven Yang
